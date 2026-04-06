@@ -1,0 +1,14 @@
+{
+  "administrador": {
+    "email": "admin@biblioteca.com",
+    "senha": "admin123"
+  },
+  "usuario": {
+    "email": "user@biblioteca.com",
+    "senha": "user123"
+  },
+  "invalido": {
+    "email": "erro@email.com",
+    "senha": "123456"
+  }
+}
