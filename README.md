@@ -43,3 +43,26 @@ npx cypress run --env tags='@learn'
 ## 📚 Recursos de aprendizado
 
 Este projeto foi criado para fins educacionais da EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+
+---
+
+# English Version
+
+# Cypress and Cucumber Example — Book Testing
+
+Example of test automation using Cypress with Cucumber for book-related scenarios.
+
+## Goal
+
+Practice writing behavior-driven test scenarios and connecting them to automated browser interactions.
+
+## Technologies
+
+- Cypress
+- Cucumber
+- Gherkin
+- JavaScript
+
+## Usage
+
+Review the project files and install the dependencies before running the tests. Use the scripts defined in `package.json` to execute the project.
